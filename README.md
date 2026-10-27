@@ -270,6 +270,20 @@ The lab was completed successfully.
 
 
 
+## Screenshots
+
+### Kubernetes Cluster
+![Three Kubernetes nodes ready](screenshots/nodes-ready.png)
+
+### NGINX Deployment
+![Six NGINX replicas available](screenshots/nginx-deployment.png)
+
+### Kubernetes Self-Healing
+![Six Pods running after replacement](screenshots/self-healing.png)
+
+
+
+
 \## Key Concepts Learned
 
 
